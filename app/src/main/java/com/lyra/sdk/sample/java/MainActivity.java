@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Public key
     // FIXME: change by your public key
-    private static final String PUBLIC_KEY = "~~CHANGE_ME_PUBLIC_KEY~~"
+    private static final String PUBLIC_KEY = "~~CHANGE_ME_PUBLIC_KEY~~";
 
     private static final String API_SERVER_NAME = "https://api.micuentaweb.pe"; // without / at the end, example https://myapiservername.com
 
