@@ -41,7 +41,7 @@ Ejecutar el proyecto a través de Android Studio mediante el botón `Run`, debe 
 
 **Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
-* Editar en `java/com.lyra.sdk.sample.java` :
+* Editar en `java/com.lyra.sdk.sample.java/MainActivity.java` :
 <p align="center">
   <img src="https://i.postimg.cc/KjVMfycg/Sdk-Credentials.png" alt="Credentials"/>
 </p>
