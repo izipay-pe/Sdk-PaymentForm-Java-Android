@@ -13,7 +13,7 @@ En este manual podrás encontrar una guía paso a paso para configurar un proyec
 Este manual está diseñado para ayudarte a comprender el flujo de la integración de la pasarela para ayudarte a aprovechar al máximo tu proyecto y facilitar tu experiencia de desarrollo.
 
 <p align="center">
-  <img src="https://i.postimg.cc/WprcjtqX/Sdk-Java.png" alt="Formulario" width="350"/>
+  <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_movil_sdk/android1.png?raw=true" alt="Formulario" width="350"/>
 </p>
 
 <a name="Requisitos_Previos"></a>
@@ -45,7 +45,7 @@ Ejecutar el proyecto a través de Android Studio mediante el botón `Run`, debe 
 
 * Editar en `java/com.lyra.sdk.sample.java/MainActivity.java` :
 <p align="center">
-  <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_movil_sdk/android1.png?raw=true" alt="Credentials"/>
+  <img src="https://i.postimg.cc/zB25HzpK/Sdk-Test.png" alt="Credentials"/>
 </p>
 
 ## 5. Transacción de prueba
