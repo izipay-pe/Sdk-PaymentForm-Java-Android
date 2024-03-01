@@ -45,7 +45,7 @@ Ejecutar el proyecto a través de Android Studio mediante el botón `Run`, debe 
 
 * Editar en `java/com.lyra.sdk.sample.java/MainActivity.java` :
 <p align="center">
-  <img src="https://i.postimg.cc/KjVMfycg/Sdk-Credentials.png" alt="Credentials"/>
+  <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_movil_sdk/android1.png?raw=true" alt="Credentials"/>
 </p>
 
 ## 5. Transacción de prueba
@@ -54,7 +54,7 @@ Antes de poner en marcha su pasarela de pago en un entorno de producción, es es
 Puede intentar realizar una transacción utilizando una tarjeta de prueba en el botón flotante de Test (en la parte superior derecha de la demo).
 
 <p align="center">
-  <img src="https://i.postimg.cc/zB25HzpK/Sdk-Test.png" alt="Test" width="450"/>
+  <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_movil_sdk/android2.png?raw=true" alt="Test" width="450"/>
 </p>
 
 * También puede encontrar tarjetas de prueba en el siguiente enlace. [Tarjetas de prueba](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/kb/test_cards.html)
