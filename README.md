@@ -45,7 +45,7 @@ Ejecutar el proyecto a través de Android Studio mediante el botón `Run`, debe 
 
 * Editar en `java/com.lyra.sdk.sample.java/MainActivity.java` :
 <p align="center">
-  <img src="https://i.postimg.cc/zB25HzpK/Sdk-Test.png" alt="Credentials"/>
+  <img src="https://i.postimg.cc/KjVMfycg/Sdk-Credentials.png" alt="Credentials"/>
 </p>
 
 ## 5. Transacción de prueba
